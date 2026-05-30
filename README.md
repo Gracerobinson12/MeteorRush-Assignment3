@@ -37,7 +37,7 @@ This repository contains the starting files and assets used throughout the lectu
 |---|---|
 | Move Left | A / Left Arrow |
 | Move Right | D / Right Arrow |
-| Shoot | Space |
+| Shoot | Left Mouse Button |
 
 ---
 
@@ -49,7 +49,6 @@ This repository contains the starting files and assets used throughout the lectu
 | Prefabs | Reusable game objects |
 | Scenes | Unity scenes |
 | Scripts | Gameplay scripts |
-| Settings | Unity project settings |
 | Sprites | Player, enemy, missile, meteor, and background sprites |
 
 ---
